@@ -1,4 +1,4 @@
-# TAPIT-Digital-Business-Card
+# TAPIT-Digital-Business-Card : A smarter way to network!
 
 Say goodbye to paper business cards and hello to your new reusable business card with a trackable dashboard to help you and your team leverage your new connections. The dashboard enables you to track every contact you have met and prompt follow-ups based on your interaction.
 
